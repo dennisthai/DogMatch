@@ -1,0 +1,1 @@
+This is one of my first project that I worked on to practice my vanilla Javascript, HTML, and CSS skills. This web development project is for people to swipe left or right given the group of dogs displayed on the screen. Additionally, when hovered, it will show images of cats respective to the number of dogs shown.
